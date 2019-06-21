@@ -1,0 +1,14 @@
+C:\Users\Hope\Desktop\OOPProject\CShareProjectWinApp\CShareProjectWinApp\bin\Debug\CShareProjectWinApp.exe.config
+C:\Users\Hope\Desktop\OOPProject\CShareProjectWinApp\CShareProjectWinApp\bin\Debug\CShareProjectWinApp.exe
+C:\Users\Hope\Desktop\OOPProject\CShareProjectWinApp\CShareProjectWinApp\bin\Debug\CShareProjectWinApp.pdb
+C:\Users\Hope\Desktop\OOPProject\CShareProjectWinApp\CShareProjectWinApp\obj\Debug\CShareProjectWinApp.csprojAssemblyReference.cache
+C:\Users\Hope\Desktop\OOPProject\CShareProjectWinApp\CShareProjectWinApp\obj\Debug\CShareProjectWinApp.fMain.resources
+C:\Users\Hope\Desktop\OOPProject\CShareProjectWinApp\CShareProjectWinApp\obj\Debug\CShareProjectWinApp.Properties.Resources.resources
+C:\Users\Hope\Desktop\OOPProject\CShareProjectWinApp\CShareProjectWinApp\obj\Debug\CShareProjectWinApp.csproj.GenerateResource.cache
+C:\Users\Hope\Desktop\OOPProject\CShareProjectWinApp\CShareProjectWinApp\obj\Debug\CShareProjectWinApp.csproj.CoreCompileInputs.cache
+C:\Users\Hope\Desktop\OOPProject\CShareProjectWinApp\CShareProjectWinApp\obj\Debug\CShareProjectWinApp.exe
+C:\Users\Hope\Desktop\OOPProject\CShareProjectWinApp\CShareProjectWinApp\obj\Debug\CShareProjectWinApp.pdb
+C:\Users\Hope\Desktop\OOPProject\CShareProjectWinApp\CShareProjectWinApp\obj\Debug\CShareProjectWinApp.Login.resources
+C:\Users\Hope\Desktop\OOPProject\CShareProjectWinApp\CShareProjectWinApp\obj\Debug\CShareProjectWinApp.Admin.resources
+C:\Users\Hope\Desktop\OOPProject\CShareProjectWinApp\CShareProjectWinApp\obj\Debug\CShareProjectWinApp.Game.resources
+C:\Users\Hope\Desktop\OOPProject\CShareProjectWinApp\CShareProjectWinApp\obj\Debug\CShareProjectWinApp.fBill.resources

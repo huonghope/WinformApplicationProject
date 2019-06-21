@@ -1,0 +1,8 @@
+C:\Users\Hope\Desktop\OOPProject\CShareProjectWinApp\CShareProjectWinApp\obj\Release\CShareProjectWinApp.csprojAssemblyReference.cache
+C:\Users\Hope\Desktop\OOPProject\CShareProjectWinApp\CShareProjectWinApp\obj\Release\CShareProjectWinApp.Admin.resources
+C:\Users\Hope\Desktop\OOPProject\CShareProjectWinApp\CShareProjectWinApp\obj\Release\CShareProjectWinApp.fMain.resources
+C:\Users\Hope\Desktop\OOPProject\CShareProjectWinApp\CShareProjectWinApp\obj\Release\CShareProjectWinApp.Login.resources
+C:\Users\Hope\Desktop\OOPProject\CShareProjectWinApp\CShareProjectWinApp\obj\Release\CShareProjectWinApp.Properties.Resources.resources
+C:\Users\Hope\Desktop\OOPProject\CShareProjectWinApp\CShareProjectWinApp\obj\Release\CShareProjectWinApp.Register.resources
+C:\Users\Hope\Desktop\OOPProject\CShareProjectWinApp\CShareProjectWinApp\obj\Release\CShareProjectWinApp.csproj.GenerateResource.cache
+C:\Users\Hope\Desktop\OOPProject\CShareProjectWinApp\CShareProjectWinApp\obj\Release\CShareProjectWinApp.csproj.CoreCompileInputs.cache
